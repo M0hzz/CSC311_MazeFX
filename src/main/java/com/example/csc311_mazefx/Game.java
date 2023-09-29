@@ -8,7 +8,7 @@ public class Game {
     private Sprite sprite;
     private Car car;
 
-    public Game(Stage primaryStage) {
+    public Game(Stage primaryStage) { // create stage
         this.primaryStage = primaryStage;
     }
 }
